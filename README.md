@@ -6,7 +6,20 @@ The Non-Profit Common Data Model (CDM) is our version of what it should look lik
 
 We've also made every attempt to not make this too data-centric, meaning over-normalized and with strict data types.  We've also left off a number of globalization pieces, but have attempted to provide extensions wherever possible to account for LTR/RTL languages and other text encoding.
 
-Some of the implementation details are sector-specific, this often causes problems with custom fields, workflows, and compliance.  To address these
+Some of the implementation details are sector-specific, this often causes problems with custom fields, workflows, and compliance.  To address these issues, we have extensions for each of the following sectors:
+
+I.    Arts, Culture, and Humanities - A
+II.   Education - B
+III.  Environment and Animals - C, D
+IV.   Health - E, F, G, H
+V.    Human Services - I, J, K, L, M, N, O, P
+VI.   International, Foreign Affairs - Q
+VII.  Public, Societal Benefit - R, S, T, U, V, W
+VIII. Religion Related - X
+IX.   Mutual/Membership Benefit - Y
+X.    Unknown, Unclassified - Z
+
+(https://nccs.urban.org/classification/national-taxonomy-exempt-entities)
 
 The goals of the CDM are as follows:
 - Provide a standard for organizations to discuss data
