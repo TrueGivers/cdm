@@ -37,14 +37,14 @@ The data entities covered by the CDM include the following:
   - Corporation
   - Foundation
   - Government
-- Relationships
+- Relationship
   - Household
   - Employee
   - Colleague
   - Student
 - Contact mechanism
-  - Email addresse
-  - Mailing addresse
+  - Email address
+  - Mailing address
   - Phone number
 - Social profile
 - Pledge
