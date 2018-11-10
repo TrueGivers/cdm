@@ -8,16 +8,16 @@ We've also made every attempt to not make this too data-centric, meaning over-no
 
 Some of the implementation details are sector-specific, this often causes problems with custom fields, workflows, and compliance.  To address these issues, we have extensions for each of the following sectors:
 
-I.    Arts, Culture, and Humanities - A
-II.   Education - B
-III.  Environment and Animals - C, D
-IV.   Health - E, F, G, H
-V.    Human Services - I, J, K, L, M, N, O, P
-VI.   International, Foreign Affairs - Q
-VII.  Public, Societal Benefit - R, S, T, U, V, W
-VIII. Religion Related - X
-IX.   Mutual/Membership Benefit - Y
-X.    Unknown, Unclassified - Z
+- Arts, Culture, and Humanities - A
+- Education - B
+- Environment and Animals - C, D
+- Health - E, F, G, H
+- Human Services - I, J, K, L, M, N, O, P
+- International, Foreign Affairs - Q
+- Public, Societal Benefit - R, S, T, U, V, W
+- Religion Related - X
+- Mutual/Membership Benefit - Y
+- Unknown, Unclassified - Z
 
 (https://nccs.urban.org/classification/national-taxonomy-exempt-entities)
 
