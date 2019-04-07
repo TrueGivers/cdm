@@ -39,7 +39,6 @@ The data entities covered by the CDM include the following:
   - Government
 - Position
   - Employer
-  - Title
 - Relationship
   - Household
   - Employee
