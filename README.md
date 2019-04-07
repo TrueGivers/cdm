@@ -37,6 +37,9 @@ The data entities covered by the CDM include the following:
   - Corporation
   - Foundation
   - Government
+- Position
+  - Employer
+  - Title
 - Relationship
   - Household
   - Employee
@@ -49,7 +52,7 @@ The data entities covered by the CDM include the following:
 - Social profile
 - Pledge
 - Donation
-- Communication Preference
+- Communication preference
 - Tag
 - Category
 
